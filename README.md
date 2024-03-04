@@ -6,13 +6,13 @@
 ![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
 
 <details>
-<summary>Open profile</summary>
+<summary>Abrir perfil</summary>
 
 [comment]: <> (View Counter)
 <br>
 <div>
   <div align=center>
-      <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://user-images.githubusercontent.com/44261381/209237088-3bbb1512-7486-4c36-afd8-bb60077d067b.png" alt="Avatar photo of William Guerrand">
+      <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://user-images.githubusercontent.com/44261381/209237088-3bbb1512-7486-4c36-afd8-bb60077d067b.png" alt="Avatar photo of Oscar Plasencia">
   </div>
   <div align=center>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Austinae;aka+William+Guerrand;Welcome+to+my+profile!;Description+of+myself%3A;Full+Stack+Developer;Inquisitive+by+nature;AI+enthusiast;Chess+lover;Confident+and+ambitious;Long-distance+athlete;Young+at+heart;Guitar+player;Thrill+seeker" alt="Typing SVG" /></a>
@@ -30,18 +30,18 @@
 /**
  * Represents me.
  * @constructor
- * @param {string} city - Paris, France.
- * @param {string} languagues - English, French.
- * @param {string} jobTitle - Full Stack Developer.
- * @param {string} specialization - Building full-fledged web applications.
- * @param {string} interests - AI, writing & problem-solving.
- * @param {string} hobbies - Climbing, reading, triathlons & playing music.
- * @param {string} education - BSc CompSci, Lancaster University.
- * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
- * @param {string} stength - Resolute.
- * @param {string} weakness - Shyness.
- * @param {Date} birthday - 14th of December 2000.
- * @throws {Punch} To any and all bugs.
+ * @param {string} city - Barcelona, España.
+ * @param {string} languagues - Castellano, Catalán e Inglés.
+ * @param {string} jobTitle - Developer.
+ * @param {string} specialization - Creación de aplicaciones web completas.
+ * @param {string} interests - IA, escritura y resolución de problemas.
+ * @param {string} hobbies - Gym, videojuegos y escuchar múscia.
+ * @param {string} education - Bachillerato, CFGS y ESO.
+ * @param {string} approachable - Sí, para colaborar en proyectos interesantes, no dudes en reaccionar.
+ * @param {string} stength - Colaborados, trabajo en grupo y flexible.
+ * @param {string} weakness - Timidez.
+ * @param {Date} birthday -13 de abril del 2005.
+ * @throws {Punch} A todos y cada uno de los errores.
  * @returns {Object} Austinae.
  */
 ```
@@ -150,9 +150,9 @@
 <details>
   <summary>Quote</summary>
   <br>
-  One of my favourite quotes
+  Una de mis citas favoritas
   <blockquote>
-    “Can I say something? Um, I’m the type of person that if you ask me a question and I don’t know the answer, I’m gonna tell you that I don’t know. But I bet you what, I know how to find the answer and I will find the answer.”
+    “¿Puedo decir algo? Um, soy el tipo de persona que si me haces una pregunta y no sé la respuesta, te diré que no lo sé. Pero te apuesto qué, sé cómo encontrar la respuesta y la encontraré..”
     <br><strong>Chris Gardner interpreted by Will Smith in the movie "Pursuit of Happyness" (2006)</strong>
   </blockquote>
 </details>
@@ -166,7 +166,7 @@
 </details>
 
 <details>
-<summary>What can I do for you?</summary>
+<summary>Qué puedo hacer por ti?</summary>
 <table style="border: none">
   <tr>
   <td width="50%" valign="top">
@@ -175,7 +175,7 @@
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about web development, writing mistake-free documentation or AI, feel free to <a href="mailto:guerrandw@gmail.com">contact me by email</a>, I won't bite, I promise.
+Si tiene alguna pregunta sobre desarrollo web, redacción de documentación sin errores o IA, no dude en contactarnos <a href="plasenciasandovla1304@gmail.com">contact me by email</a>, No voy a morder, lo prometo.
 
   </td>
   <td width="50%" valign="top">
@@ -184,7 +184,7 @@ If you have any questions about web development, writing mistake-free documentat
 
 **<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
 
-<blockquote>“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
+<blockquote>“Creo que es muy importante tener un circuito de retroalimentación, en el que estés pensando constantemente en lo que has hecho y cómo podrías hacerlo mejor.”
 <br><strong>– Elon Musk</strong></blockquote>
 
   </td>
